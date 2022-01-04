@@ -184,7 +184,7 @@ nav ul{
 
 #contact{
     min-height: 100vh;
-    background: url(../img/contact-mountain.png);
+    background: url(/Travelly.github.io/img/contact-mountain.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
